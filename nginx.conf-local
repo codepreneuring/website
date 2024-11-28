@@ -1,0 +1,6 @@
+server {
+    listen 8080;                
+
+    root /mnt/c/user/dev/lab/codepreneuring.com/website;            
+    index index.html;           
+}
